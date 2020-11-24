@@ -12,3 +12,7 @@ projects/spa-website/package-lock.json
 projects/proxy-server/package.json
 projects/api-service/src/main/resources/application.properties
 projects/api-service/src/main/resources/application.properties
+projects/spa-website/package.json
+projects/spa-website/package-lock.json
+projects/proxy-server/package.json
+projects/api-service/src/main/resources/application.properties
